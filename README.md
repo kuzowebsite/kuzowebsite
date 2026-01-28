@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kuzowebsite.kuzowebsite" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ku+Zo!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+KuZo!;" />
 </h1>
 
 <h3 align="center">Founder of AndSoft Global Partner LLC 🇲🇳</h3>
@@ -73,10 +73,10 @@
 <br/>
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="22%" style="border-radius: 10px;" />
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="22%" style="border-radius: 10px;" />
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="22%" style="border-radius: 10px;" />
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="22%" style="border-radius: 10px;" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDR5MWNqbHZ6aXBlajB3cGRhc3pvcW80Z3l2NDFlNTZ4YnE2d3NpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WXRhcrGOBKGUE/giphy.gif" width="22%" style="border-radius: 10px;" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZuOGxwdGs0ajR3dGY2YTFkcjlwd3phbGtzYzBrcm1waDd5am8xeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wiFxDY1R6cKje/giphy.gif" width="22%" style="border-radius: 10px;" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2JzaXlmNzZoeWEzaWxrMmY1ZnB3NjBzZWhid2d3bmFiazhueWFpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7ihhFw8q0LzBS/giphy.gif" width="22%" style="border-radius: 10px;" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmM3NmFmemwwN3ZiMjM4ZGN1b2xtNzdvNnNqN3ZnYWoxMnplZjR0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UgtFGdxtjPfK0GM3u8/giphy.gif" width="22%" style="border-radius: 10px;" />
 </div>
 
 <br/>
