@@ -8,8 +8,10 @@
 </picture>
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHJvdXF4eDBic2VweWJnNmt6NHpqMzdhZjV3N28zbGdmZmhxdnJzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C4NdKtRaQE9m8/giphy.gif" />
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTV4cThqNm5pcjdmdmJiZHhtOXFvd2wwMGtnbDJrMjNsNW9saWVudyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cxPtMDHG8Ljry/giphy.gif" />
   <span style="font-size: 30px;">+</span>
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnBleHZudXRpdjVoYmpyYWJlMXRoZjMyeHkwODBqbmVpNXh5bjc5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif" /> ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhpMzNsdGxmcGtzOXNpcWk2bmlhZzYzcWZ0Z3ZjdWY5eWhqdmg0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4QxQgWZHbeYwM/giphy.gif" /> 
+  <span style="font-size: 30px;">+</span>
+  <img height="150" src="https://i.giphy.com/W9MrfVxE4s2Zi.webp" /> ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 </div>
 ⠀
