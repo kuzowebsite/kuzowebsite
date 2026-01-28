@@ -34,13 +34,29 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Tech Stack & Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,figma,ps,git,github,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind" /><br>
+    <br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,mysql,firebase" /><br>
+    <br>
+    <img src="https://skillicons.dev/icons?i=figma,ps,git,github,vscode,ableton,linux" />
 </div>
 
 <br/>
+<hr/>
+
+<h2 align="center">🚀 Top Projects</h2>
+<div align="center">
+  <a href="https://github.com/kuzowebsite">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kuzowebsite&repo=kuzowebsite&theme=react&border_radius=10" />
+  </a>
+  <a href="https://github.com/kuzowebsite">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kuzowebsite&repo=github-readme-stats&theme=react&border_radius=10" />
+  </a>
+</div>
+<br>
 <hr/>
 
 <div align="center">
@@ -83,4 +99,9 @@
  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmM3NmFmemwwN3ZiMjM4ZGN1b2xtNzdvNnNqN3ZnYWoxMnplZjR0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UgtFGdxtjPfK0GM3u8/giphy.gif" width="22%" style="border: 3px solid #FF00FF; border-radius: 10px; box-shadow: 0 0 10px #FF00FF;" />
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kuzowebsite&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="watching_count" />
+</div>
 <br/>
