@@ -8,7 +8,7 @@
 </picture>
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTV5eXBwaXQ3cWFqZDJ1c2Uwc2pkcmlqNGJ0bHl3Y2V6amI1Nm14bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SOzJPrzQ16ZZ9KqOpU/giphy.gif" />
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHJvdXF4eDBic2VweWJnNmt6NHpqMzdhZjV3N28zbGdmZmhxdnJzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C4NdKtRaQE9m8/giphy.gif" />
   <span style="font-size: 30px;">+</span>
   <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnBleHZudXRpdjVoYmpyYWJlMXRoZjMyeHkwODBqbmVpNXh5bjc5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif" /> ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 </div>
