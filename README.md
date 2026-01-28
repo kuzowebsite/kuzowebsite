@@ -73,14 +73,14 @@
 <br/>
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDR5MWNqbHZ6aXBlajB3cGRhc3pvcW80Z3l2NDFlNTZ4YnE2d3NpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WXRhcrGOBKGUE/giphy.gif" width="22%" style="border: 2px solid #FF0000; border-radius: 10px;" />
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZuOGxwdGs0ajR3dGY2YTFkcjlwd3phbGtzYzBrcm1waDd5am8xeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wiFxDY1R6cKje/giphy.gif" width="22%" style="border: 2px solid #FFFF00; border-radius: 10px;" />
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2JzaXlmNzZoeWEzaWxrMmY1ZnB3NjBzZWhid2d3bmFiazhueWFpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7ihhFw8q0LzBS/giphy.gif" width="22%" style="border: 2px solid #00FF00; border-radius: 10px;" />
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVkYXZzMzN4aXJ2MnRoNnZvMjQzaHZmcG05bjJxZHhwcjg0YjhpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L3R5dA76NNtWzemBFF/giphy.gif" width="22%" style="border: 2px solid #00FFFF; border-radius: 10px;" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDR5MWNqbHZ6aXBlajB3cGRhc3pvcW80Z3l2NDFlNTZ4YnE2d3NpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WXRhcrGOBKGUE/giphy.gif" width="22%" style="border: 3px solid #FF0000; border-radius: 10px; box-shadow: 0 0 10px #FF0000;" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZuOGxwdGs0ajR3dGY2YTFkcjlwd3phbGtzYzBrcm1waDd5am8xeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wiFxDY1R6cKje/giphy.gif" width="22%" style="border: 3px solid #FFFF00; border-radius: 10px; box-shadow: 0 0 10px #FFFF00;" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2JzaXlmNzZoeWEzaWxrMmY1ZnB3NjBzZWhid2d3bmFiazhueWFpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7ihhFw8q0LzBS/giphy.gif" width="22%" style="border: 3px solid #00FF00; border-radius: 10px; box-shadow: 0 0 10px #00FF00;" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDVkYXZzMzN4aXJ2MnRoNnZvMjQzaHZmcG05bjJxZHhwcjg0YjhpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L3R5dA76NNtWzemBFF/giphy.gif" width="22%" style="border: 3px solid #00FFFF; border-radius: 10px; box-shadow: 0 0 10px #00FFFF;" />
 </div>
 
 <div align="center" style="display: flex; justify-content: center;">
- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmM3NmFmemwwN3ZiMjM4ZGN1b2xtNzdvNnNqN3ZnYWoxMnplZjR0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UgtFGdxtjPfK0GM3u8/giphy.gif" width="22%" style="border: 2px solid #9900FF; border-radius: 10px;" />
+ <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmM3NmFmemwwN3ZiMjM4ZGN1b2xtNzdvNnNqN3ZnYWoxMnplZjR0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UgtFGdxtjPfK0GM3u8/giphy.gif" width="22%" style="border: 3px solid #FF00FF; border-radius: 10px; box-shadow: 0 0 10px #FF00FF;" />
 </div>
 
 <br/>
