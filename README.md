@@ -8,7 +8,7 @@
 </picture>
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <img height="150" src="[https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTV5eXBwaXQ3cWFqZDJ1c2Uwc2pkcmlqNGJ0bHl3Y2V6amI1Nm14bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SOzJPrzQ16ZZ9KqOpU/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Znh2N3dqeHFkcm04d21qa210OTBtb21lN2Mya2x0YzZoOWE2dTlsMiZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/MDJ9IbxxvDUQM/giphy.gif)" />
+  <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTV5eXBwaXQ3cWFqZDJ1c2Uwc2pkcmlqNGJ0bHl3Y2V6amI1Nm14bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SOzJPrzQ16ZZ9KqOpU/giphy.gif(https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnBleHZudXRpdjVoYmpyYWJlMXRoZjMyeHkwODBqbmVpNXh5bjc5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif)](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Znh2N3dqeHFkcm04d21qa210OTBtb21lN2Mya2x0YzZoOWE2dTlsMiZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/MDJ9IbxxvDUQM/giphy.gif)" />
   <span style="font-size: 30px;">+</span>
   <img height="150" src="[https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXF6ZGUyOWJwbmhtenZpd2E4NHVxd2I1ZXZjY2Y0MzRrNW92Zmp1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KTh4qAoggsGMJBsoBM/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm54eXgxYm50ZTh2M2gya3Z5Ym14ZWR5NDJmYm5taTNzYW4zYnp1MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/V4NSR1NG2p0KeJJyr5/giphy.gif)" /> ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 </div>
