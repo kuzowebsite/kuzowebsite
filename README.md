@@ -67,8 +67,11 @@
 
 <br/>
 
-<div align="center">
-<a href='https://ko-fi.com' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="22%" style="border-radius: 10px;" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="22%" style="border-radius: 10px;" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="22%" style="border-radius: 10px;" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="22%" style="border-radius: 10px;" />
 </div>
 
 <br/>
