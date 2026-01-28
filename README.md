@@ -49,8 +49,8 @@
 
 <h2 align="center">🎧 Vibe with Me</h2>
 <div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=4vQR9nHkfeGVrYHOulf3wu&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=4vQR9nHkfeGVrYHOulf3wu&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Playing Now" width="400" />
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=3A4sFmLDqiV3JMKM9tgpzCK8&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=3A4sFmLDqiV3JMKM9tgpzCK8&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Playing Now" width="400" />
   </a>
 </div>
 <br>
